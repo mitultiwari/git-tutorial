@@ -7,6 +7,7 @@ int main(int argc, char **argv){
   else{
     printf("less than 2\n");
   }
+  return(1);
 }
 
 
